@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+img{
+	width: 60vw;
+	height: 60vh;
+	margin-left: 10vw;
+	margin-top: 20vh;
+	position: absolute;
+}
+h1{
+	color: red;
+	font-size: large;
+}
